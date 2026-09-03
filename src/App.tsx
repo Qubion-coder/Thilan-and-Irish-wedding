@@ -995,13 +995,13 @@ export default function WeddingInvitation() {
 
             {/* Background Image */}
             <div className="absolute inset-0 z-0 pointer-events-none">
-                <img
-                  src="/ChatGPT Image Jun 1, 2026, 10_13_41 PM.png"
-                  alt="Background"
-                  fetchPriority="high"
-                  loading="eager"
-                  className="w-full h-full object-cover"
-                />
+              <img
+                src="/ChatGPT Image Jun 1, 2026, 10_13_41 PM.png"
+                alt="Background"
+                fetchPriority="high"
+                loading="eager"
+                className="w-full h-full object-cover"
+              />
               <div className="absolute inset-0 bg-white/40" />
             </div>
 
@@ -1215,12 +1215,12 @@ export default function WeddingInvitation() {
                   className="flex flex-col items-center mb-8 md:mb-16"
                 >
                   <div className="w-[2px] h-16 md:h-24 bg-gradient-to-b from-transparent via-theme-400 to-transparent mb-6 md:mb-10 shadow-[0_0_10px_rgba(210,180,185,0.3)]" />
-                  
+
                   <div className="flex flex-col items-center text-center max-w-2xl px-4">
                     <span className="text-theme-400 text-[9px] md:text-[11px] mb-4 md:mb-6 tracking-[0.8em] uppercase font-bold">
                       Wedding Celebration
                     </span>
-                    
+
 
                     <p className="font-playball text-theme-600 text-3xl md:text-5xl mt-3 md:mt-5 capitalize tracking-wide drop-shadow-sm">
                       Celebrate the Union of
@@ -1304,11 +1304,11 @@ export default function WeddingInvitation() {
                       <div className="w-1 h-1 md:w-1.5 md:h-1.5 rotate-45 bg-theme-500" />
                       <div className="h-[1px] flex-1 bg-gradient-to-l from-transparent to-theme-400" />
                     </div>
-                    
+
                     <h3 className="font-cinzel text-transparent bg-clip-text bg-gradient-to-r from-theme-700 via-theme-950 to-theme-700 text-[10px] md:text-sm leading-loose tracking-[0.35em] md:tracking-[0.5em] uppercase font-semibold px-2 drop-shadow-sm">
                       You are cordially invited to our <br className="sm:hidden" /> wedding celebration
                     </h3>
-                    
+
                     <div className="flex items-center justify-center w-full max-w-[280px] md:max-w-md gap-4 md:gap-6 opacity-70 mt-5">
                       <div className="h-[1px] flex-1 bg-gradient-to-r from-transparent to-theme-400" />
                       <div className="w-1 h-1 md:w-1.5 md:h-1.5 rotate-45 bg-theme-500" />
